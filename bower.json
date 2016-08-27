@@ -1,0 +1,17 @@
+{
+  "name": "wingaru",
+  "authors": [
+    "Michael Brucal <mbrucal@wingaru.com.au>"
+  ],
+  "description": "Wingaru module for angular and phaserjs",
+  "main": "wingaru.js",
+  "keywords": [
+    "wingaru",
+    "module",
+    "angular",
+    "phaserjs"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.wingaru.com.au",
+  "private": true
+}
