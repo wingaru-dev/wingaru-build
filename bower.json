@@ -13,5 +13,5 @@
   ],
   "license": "MIT",
   "homepage": "http://www.wingaru.com.au",
-  "private": true
+  "private": false
 }
